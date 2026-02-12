@@ -1,7 +1,7 @@
 ## 전화번호 목록
 https://school.programmers.co.kr/learn/courses/30/lessons/42577
 
-## 전략 (🌐): Trie
+## 전략 1 (🌐): Trie
 - 각 char을 노드로 보고, 트리를 만듦
     - 트리는 간단하게 딕셔너리를 이용해서 구현
 - 동일한 브랜치에서 char이 다르면 분기하고 같으면 분기 X
