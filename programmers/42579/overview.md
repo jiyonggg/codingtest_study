@@ -1,7 +1,7 @@
 ## 베스트앨범
 https://school.programmers.co.kr/learn/courses/30/lessons/42579
 
-## 전략 1
+## 전략
 - 주어진 데이터를 JSON 형태로 나타냈다고 생각해보기
 ```json
 "genres": {
